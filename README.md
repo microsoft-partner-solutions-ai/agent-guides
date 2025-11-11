@@ -37,23 +37,10 @@ Browse the folders in this repository to see available agent guides. Each folder
 
 ## Creating a New Agent Guide
 
-If you're contributing a new agent guide, you can copy the `agent-guide-template/` folder, and customize the details. Agent guides should follow the template structure:
-
-1. A folder for your agent with a descriptive, kebab-case name (e.g., `ai-discovery-cards-agent`)
-2. Include all required files:
-   - `README.md` - Agent overview and setup instructions
-   - `system-instructions.md` - Complete system prompt
-   - `knowledge-sources.md` - Knowledge source documentation
-   - `knowledge-sources/` (Optional) Files for upload
-   - `suggested-prompts.md` - Example prompts
-3. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)
+Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Support
 
 For questions or issues:
 - Open an issue in this repository
 - Contact the Microsoft Partner Solutions AI team
-
-## License
-
-Please refer to the LICENSE file in this repository for usage terms.
