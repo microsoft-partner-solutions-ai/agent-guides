@@ -31,7 +31,7 @@ Browse the folders in this repository to see available agent guides. Each folder
 4. **Deploy to Copilot Studio Lite**:
    - Create a new agent in Copilot Studio Lite (copilot.microsoft.com)
    - Copy the system instructions from `system-instructions.md` into the agent's prompt configuration
-   - Upload or link the knowledge sources as specified in `knowledge-sources.md` and/or uploaded to `knowledge-sources/`
+   - Upload or link the knowledge sources as specified in `knowledge-sources.md` and uploaded to `uploaded-files/` (if present)
    - Add the suggested prompts from `suggested-prompts.md` to help users get started
 5. **Test and Customize**: Test the agent with the provided suggested prompts and customize as needed for your specific use case
 

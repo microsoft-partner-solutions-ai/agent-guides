@@ -5,8 +5,8 @@ Add the following knowledge sources to your agent configuration.
 ### Websites:
 - example.com
 
-### Files:
-- filenames (also upload to `knowledge-sources/` as needed)
+### Uploaded files:
+- filenames (also upload to `uploaded-files/` folder)
 
 ### Teams
 - meetings, channels, chats

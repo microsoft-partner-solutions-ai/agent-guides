@@ -40,9 +40,8 @@ Document all knowledge sources used by the agent:
 - **Type**: Files, URLs, Outlook, Teams, etc.
 - **Description**: What each source provides
 
-#### 3b. knowledge-sources/ folder (optional as needed)
+#### 3b. uploaded-files/ folder (optional as needed)
 Folder containing all files needed for upload (.txt, .docx, .pptx, .pdf, etc)
-- **Public Data Only**: Use only publicly available knowledge sources or provide clear instructions for obtaining proprietary sources
 
 #### 4. suggested-prompts.md
 Provide 3 or more example prompts that demonstrate the agent's capabilities:
@@ -69,12 +68,11 @@ Provide 3 or more example prompts that demonstrate the agent's capabilities:
 
 4. **Pull Request Checklist**:
    - [ ] Folder name follows kebab-case convention
-   - [ ] All four required files are present
    - [ ] README.md is complete and clear
    - [ ] system-instructions.md contains the full prompt
    - [ ] knowledge-sources.md documents all sources
    - [ ] suggested-prompts.md includes 3+ examples
-   - [ ] Agent has been tested successfully
+   - [ ] Any required files are provided in "uploaded-files/" folder
    - [ ] No sensitive information is included
 
 ## Review Process
