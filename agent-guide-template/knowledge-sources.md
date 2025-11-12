@@ -5,7 +5,7 @@ Add the following knowledge sources to your agent configuration.
 ### Websites:
 - example.com
 
-### SharePoint:
+### Files:
 - filenames (also upload to `knowledge-sources/` as needed)
 
 ### Teams
