@@ -1,10 +1,12 @@
-## Agent Guide
+## AI Discovery Cards Agent Replication Guide
 
 **Agent Name**: AI Discovery Card Agent
 
 **Description**: Used to assist with AI Discovery Card workshop delivery with partners and customers.
 
 **Target Use Cases**: Accelerate and assist with AI Discovery Card workshop delivery, use case ideation and prioritization.
+
+## How to Create your Agent
 
 1. Navigate to copilot.microsoft.com
 
