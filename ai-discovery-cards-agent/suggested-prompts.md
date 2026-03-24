@@ -22,6 +22,19 @@ Copy and paste the following suggested prompts into the "Suggested Prompts" boxe
 
 ### Prompt 4:
 
+**Title:** Implementation Cost
+
+**Message:** Explain implementation time and cost factors.
+
+### Prompt 5:
+
+**Title:** Use Case & Accelerator
+
+**Message:** Find 1-2 relevant example from the use case library; find relevant full accelerator pack with GitHub and Learn links if applicable.
+
+### Prompt 6:
+
 **Title:** Follow-up Engagement Planning
 
 **Message:** Given this use case and its maturity level, recommend the next engagement type (e.g., PoC, architecture design session, etc) and suggest which SMEs should be included.
+
